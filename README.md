@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubhamkoli921
-- 👀 I’m interested in ...Fullstack developer
+- 👀 I want to be a...Fullstack developer
 - 🌱 I’m currently learning ...front-end developer.
 - 📫 How to reach me ...mail me on shubhamkk922@gmail.com
 
